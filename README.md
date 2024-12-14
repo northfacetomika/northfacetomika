@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @northfacetomika
-- 👀 discord on northfacetomika
+- 👋 Hi, I’m @baraksz
+- 👀 discord on baraksz
 - 🌱 I’m make the #node1 and node1 discord bot
 - 💞️ I don't have a partner
 - 📫 guns.lol/tnft | discord.gg/node1
